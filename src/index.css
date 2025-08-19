@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+/* Reset cơ bản */
+html {
+  zoom: 0.85; /* 85% như bạn hay chỉnh */
+}
